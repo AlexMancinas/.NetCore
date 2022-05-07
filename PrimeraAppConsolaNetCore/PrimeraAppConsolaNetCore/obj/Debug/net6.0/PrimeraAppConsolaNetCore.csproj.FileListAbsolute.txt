@@ -1,0 +1,15 @@
+C:\Users\Master\Documents\GitHub\.NetCore\PrimeraAppConsolaNetCore\PrimeraAppConsolaNetCore\bin\Debug\net6.0\PrimeraAppConsolaNetCore.exe
+C:\Users\Master\Documents\GitHub\.NetCore\PrimeraAppConsolaNetCore\PrimeraAppConsolaNetCore\bin\Debug\net6.0\PrimeraAppConsolaNetCore.deps.json
+C:\Users\Master\Documents\GitHub\.NetCore\PrimeraAppConsolaNetCore\PrimeraAppConsolaNetCore\bin\Debug\net6.0\PrimeraAppConsolaNetCore.runtimeconfig.json
+C:\Users\Master\Documents\GitHub\.NetCore\PrimeraAppConsolaNetCore\PrimeraAppConsolaNetCore\bin\Debug\net6.0\PrimeraAppConsolaNetCore.dll
+C:\Users\Master\Documents\GitHub\.NetCore\PrimeraAppConsolaNetCore\PrimeraAppConsolaNetCore\bin\Debug\net6.0\PrimeraAppConsolaNetCore.pdb
+C:\Users\Master\Documents\GitHub\.NetCore\PrimeraAppConsolaNetCore\PrimeraAppConsolaNetCore\obj\Debug\net6.0\PrimeraAppConsolaNetCore.csproj.AssemblyReference.cache
+C:\Users\Master\Documents\GitHub\.NetCore\PrimeraAppConsolaNetCore\PrimeraAppConsolaNetCore\obj\Debug\net6.0\PrimeraAppConsolaNetCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Master\Documents\GitHub\.NetCore\PrimeraAppConsolaNetCore\PrimeraAppConsolaNetCore\obj\Debug\net6.0\PrimeraAppConsolaNetCore.AssemblyInfoInputs.cache
+C:\Users\Master\Documents\GitHub\.NetCore\PrimeraAppConsolaNetCore\PrimeraAppConsolaNetCore\obj\Debug\net6.0\PrimeraAppConsolaNetCore.AssemblyInfo.cs
+C:\Users\Master\Documents\GitHub\.NetCore\PrimeraAppConsolaNetCore\PrimeraAppConsolaNetCore\obj\Debug\net6.0\PrimeraAppConsolaNetCore.csproj.CoreCompileInputs.cache
+C:\Users\Master\Documents\GitHub\.NetCore\PrimeraAppConsolaNetCore\PrimeraAppConsolaNetCore\obj\Debug\net6.0\PrimeraAppConsolaNetCore.dll
+C:\Users\Master\Documents\GitHub\.NetCore\PrimeraAppConsolaNetCore\PrimeraAppConsolaNetCore\obj\Debug\net6.0\refint\PrimeraAppConsolaNetCore.dll
+C:\Users\Master\Documents\GitHub\.NetCore\PrimeraAppConsolaNetCore\PrimeraAppConsolaNetCore\obj\Debug\net6.0\PrimeraAppConsolaNetCore.pdb
+C:\Users\Master\Documents\GitHub\.NetCore\PrimeraAppConsolaNetCore\PrimeraAppConsolaNetCore\obj\Debug\net6.0\PrimeraAppConsolaNetCore.genruntimeconfig.cache
+C:\Users\Master\Documents\GitHub\.NetCore\PrimeraAppConsolaNetCore\PrimeraAppConsolaNetCore\obj\Debug\net6.0\ref\PrimeraAppConsolaNetCore.dll
