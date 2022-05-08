@@ -1,0 +1,11 @@
+C:\Users\Master\Documents\GitHub\.NetCore\ConexionSQLSERVER\ConexionSQLSERVER\bin\Debug\ConexionSQLSERVER.exe.config
+C:\Users\Master\Documents\GitHub\.NetCore\ConexionSQLSERVER\ConexionSQLSERVER\bin\Debug\ConexionSQLSERVER.exe
+C:\Users\Master\Documents\GitHub\.NetCore\ConexionSQLSERVER\ConexionSQLSERVER\bin\Debug\ConexionSQLSERVER.pdb
+C:\Users\Master\Documents\GitHub\.NetCore\ConexionSQLSERVER\ConexionSQLSERVER\obj\Debug\ConexionSQLSERVER.csproj.AssemblyReference.cache
+C:\Users\Master\Documents\GitHub\.NetCore\ConexionSQLSERVER\ConexionSQLSERVER\obj\Debug\ConexionSQLSERVER.csproj.SuggestedBindingRedirects.cache
+C:\Users\Master\Documents\GitHub\.NetCore\ConexionSQLSERVER\ConexionSQLSERVER\obj\Debug\ConexionSQLSERVER.Form1.resources
+C:\Users\Master\Documents\GitHub\.NetCore\ConexionSQLSERVER\ConexionSQLSERVER\obj\Debug\ConexionSQLSERVER.Properties.Resources.resources
+C:\Users\Master\Documents\GitHub\.NetCore\ConexionSQLSERVER\ConexionSQLSERVER\obj\Debug\ConexionSQLSERVER.csproj.GenerateResource.cache
+C:\Users\Master\Documents\GitHub\.NetCore\ConexionSQLSERVER\ConexionSQLSERVER\obj\Debug\ConexionSQLSERVER.csproj.CoreCompileInputs.cache
+C:\Users\Master\Documents\GitHub\.NetCore\ConexionSQLSERVER\ConexionSQLSERVER\obj\Debug\ConexionSQLSERVER.exe
+C:\Users\Master\Documents\GitHub\.NetCore\ConexionSQLSERVER\ConexionSQLSERVER\obj\Debug\ConexionSQLSERVER.pdb
