@@ -37,5 +37,15 @@ namespace ConexionSQLSERVER
 
         }
 
+        private void btnSubmit_Click(object sender, EventArgs e)
+        {
+            Conexion.Conexionsql();
+            string insertar = "INSERT INTO Alumnos (textBoxId, textBoxNombre, textBoxApellido) VALUES (@id_alumno, @Nombre_alumno, @Apellido_alumno)";
+            SqlCommand insert = new SqlCommand(insertar, Conexion.Conexionsql());
+            insert.Parameters.AddWithValue("@id_alumno", textBoxId);
+            insert.Parameters.AddWithValue("@Nombre_alumno", textBoxNombre);
+            insert.Parameters.AddWithValue("@Apellido_alumno", textBoxApellido);
+
+        }
     }
 }
