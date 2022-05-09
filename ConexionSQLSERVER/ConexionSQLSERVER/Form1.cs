@@ -47,5 +47,10 @@ namespace ConexionSQLSERVER
             insert.Parameters.AddWithValue("@Apellido_alumno", textBoxApellido);
 
         }
+
+        private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
+        }
     }
 }
